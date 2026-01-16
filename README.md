@@ -96,19 +96,6 @@ File Structure
 ├── p2.png            # Favicon
 └── README.md         # Project documentation
 
-Installation & Usage
-
-No installation required.
-
-Clone the repository:
-
-git clone https://github.com/yourusername/problemica.git
-
-
-Open index.html in any modern web browser.
-
-Start training immediately.
-
 Browser Compatibility
 
 Chrome (recommended)
